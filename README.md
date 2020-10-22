@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nathalia Ohana</h1>
-<h3 align="center">Estudante de Engenharia da Computação e Técnica em Informática.</h3>
+<h1 align="center">Oi 👋, Eu sou Nathalia Ohana</h1>
+<h3 align="center">Estudante de Engenharia da Computação e Técnica em Informática :woman_technologist: </h3>
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=nathalia1234&label=Profile%20views&color=0e75b6&style=flat" alt="nathalia1234" /> </p>-->
 

@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, Eu sou Nathalia Ohana</h1>
-<h3 align="center">Estudante de Engenharia da Computação e Técnica em Informática :woman_technologist: </h3>
+<h3 align="center">Graduanda em Engenharia da Computação e Técnica em Informática :woman_technologist: </h3>
 
 
 

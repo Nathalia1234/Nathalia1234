@@ -3,7 +3,11 @@
 -
 <a href="https://github.com/Nathalia1234"><img src="https://camo.githubusercontent.com/aecf81b6ad759151ad0f9c5fa8c4bce66f3ddd84564cdf1c36b6595334d1d39d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769746875622d3030303f7374796c653d666c61742d737175617265266c6f676f3d476974687562266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f6769746875622e636f6d2f7765736c65796f73616e746f733931" alt="Github Badge" data-canonical-src="https://img.shields.io/badge/-Github-000?style=flat-square&amp;logo=Github&amp;logoColor=white&amp;link=https://github.com/Nathalia1234" style="max-width:100%;"></a> <a href="https://www.linkedin.com/in/nath%C3%A1lia-ohana-867524134/" rel="nofollow"><img src="https://camo.githubusercontent.com/1cd141582b6222b3a68c3bc0bcc95d29fee6b00201f7036834ad1916c2fecb1d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c75653f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f7765736c65796f73616e746f7339312f" alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/nath%C3%A1lia-ohana-867524134/" style="max-width:100%;"></a><a href="mailto:nathe557@gmail.com/"><img src="https://camo.githubusercontent.com/2b32eb2db22062768ae2ed84c081f0a2b6c3fb75832139f7a0be3c5d43b8bace/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d6331343433383f7374796c653d666c61742d737175617265266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465266c696e6b3d6d61696c746f3a7765736c65796f73616e746f73393140676d61696c2e636f6d" alt="Gmail Badge" data-canonical-src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:nathe557@gmail.com" style="max-width:100%;"></a>
 
- ![GitHub followers](https://img.shields.io/github/followers/Nathalia1234?style=social) <a href="https://github.com/Nathalia1234/"><img src="https://camo.githubusercontent.com/380176c9166d73cfe3c88ad49eebc7b8f6171409225029625b95532477b5f191/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f6c6c6f776572732f7765736c65796f73616e746f7339313f636f6c6f723d253233344343363145266c6162656c3d476974487562253230466f6c6c6f77657273253230253341" data-canonical-src="https://img.shields.io/github/followers/Nathalia1234?color=%234CC61E&amp;label=GitHub%20Followers%20%3A" style="max-width:100%;"></a> 	[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/Nathalia1234/open-source-badges/)
+
+
+[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/Nathalia1234?tab=repositories)
+
+
 
 
 <table> 	<tbody><tr>	 	<td><a target="_blank" rel="noopener noreferrer" href="https://github.com/Nathalia1234/github-readme-stats"> <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=nathalia1234&repo=github-stats&hide=stars,issues&show_icons=true&locale=&theme=dark" alt="nathalia1234"/> </a></td>	 <td><a target="_blank" rel="noopener noreferrer" href="https://github.com/Nathalia1234/convoychat"> <img width="495px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathalia1234&repo=convoychat&layout=compact&theme=dark" style="max-width:100%;"/> </a></td></tr>   	 </tbody></table>
@@ -35,9 +39,7 @@ Habilidades
  
 </a>
 
- - <a>
-
-</a>
+ 
 
 	
 	

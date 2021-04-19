@@ -13,7 +13,8 @@
 
 
 
-<h3 align="left">Languages and Tools / Linguagens e ferramentas:</h3>
+<h3 align="left">Languages and tools being practiced
+ / Linguagens e ferramentas sendo praticadas:</h3>
 
 <p align="left"> 
   

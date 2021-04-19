@@ -1,42 +1,44 @@
-<h1 align="center">Oi 👋, Eu sou Nathalia Ohana / Hi 👋, I'm Nathalia Ohana</h1>
-<h3 align="center">Graduanda em Engenharia da Computação e Técnica em Informática :woman_technologist: / Undergraduate student in Computer Engineering and Computer Science:woman_technologist:</h3>
+
+**Nathalia Ohana Barigchum Leite :woman_technologist:**
+-
+<a href="https://github.com/Nathalia1234"><img src="https://camo.githubusercontent.com/aecf81b6ad759151ad0f9c5fa8c4bce66f3ddd84564cdf1c36b6595334d1d39d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769746875622d3030303f7374796c653d666c61742d737175617265266c6f676f3d476974687562266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f6769746875622e636f6d2f7765736c65796f73616e746f733931" alt="Github Badge" data-canonical-src="https://img.shields.io/badge/-Github-000?style=flat-square&amp;logo=Github&amp;logoColor=white&amp;link=https://github.com/Nathalia1234" style="max-width:100%;"></a> <a href="https://www.linkedin.com/in/nath%C3%A1lia-ohana-867524134/" rel="nofollow"><img src="https://camo.githubusercontent.com/1cd141582b6222b3a68c3bc0bcc95d29fee6b00201f7036834ad1916c2fecb1d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c75653f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f7765736c65796f73616e746f7339312f" alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/nath%C3%A1lia-ohana-867524134/" style="max-width:100%;"></a><a href="mailto:nathe557@gmail.com/"><img src="https://camo.githubusercontent.com/2b32eb2db22062768ae2ed84c081f0a2b6c3fb75832139f7a0be3c5d43b8bace/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d6331343433383f7374796c653d666c61742d737175617265266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465266c696e6b3d6d61696c746f3a7765736c65796f73616e746f73393140676d61696c2e636f6d" alt="Gmail Badge" data-canonical-src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:nathe557@gmail.com" style="max-width:100%;"></a>
+
+ ![GitHub followers](https://img.shields.io/github/followers/Nathalia1234?style=social) <a href="https://github.com/Nathalia1234/"><img src="https://camo.githubusercontent.com/380176c9166d73cfe3c88ad49eebc7b8f6171409225029625b95532477b5f191/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f6c6c6f776572732f7765736c65796f73616e746f7339313f636f6c6f723d253233344343363145266c6162656c3d476974487562253230466f6c6c6f77657273253230253341" data-canonical-src="https://img.shields.io/github/followers/Nathalia1234?color=%234CC61E&amp;label=GitHub%20Followers%20%3A" style="max-width:100%;"></a> 	[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/Nathalia1234/open-source-badges/)
 
 
-
-<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=nathalia1234&label=Profile%20views&color=0e75b6&style=flat" alt="nathalia1234" /> </p>-->
-
-<h3 align="left">Connect with me / Conecte-se comigo:</h3>
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nath%C3%A1lia-ohana-867524134/)](https://www.linkedin.com/in/nath%C3%A1lia-ohana-867524134/) <a href="mailto:nathe557@gmail.com/"><img src="https://camo.githubusercontent.com/2b32eb2db22062768ae2ed84c081f0a2b6c3fb75832139f7a0be3c5d43b8bace/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d6331343433383f7374796c653d666c61742d737175617265266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465266c696e6b3d6d61696c746f3a7765736c65796f73616e746f73393140676d61696c2e636f6d" alt="Gmail Badge" data-canonical-src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logoColor=white&link=mailto:nathe557@gmail.com" style="max-width:100%;">
+<table> 	<tbody><tr>	 	<td><a target="_blank" rel="noopener noreferrer" href="https://github.com/Nathalia1234/github-readme-stats"> <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=nathalia1234&repo=github-stats&hide=stars,issues&show_icons=true&locale=&theme=dark" alt="nathalia1234"/> </a></td>	 <td><a target="_blank" rel="noopener noreferrer" href="https://github.com/Nathalia1234/convoychat"> <img width="495px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathalia1234&repo=convoychat&layout=compact&theme=dark" style="max-width:100%;"/> </a></td></tr>   	 </tbody></table>
 
 
+Oii 👋, 
+-
+Graduanda em Engenharia da Computação, amante da tecnologia, robótica e automação, apaixonada por novos conhecimentos. Meu hobby é jogar games, assistir séries, documentários e filmes de comédia, ação, aventura e suspense.
 
 
-
-<h3 align="left">Languages and tools being practiced
- / Linguagens e ferramentas sendo praticadas:</h3>
-
-<p align="left"> 
-  
-<a href="https://www.w3schools.com/cs/" target="_blank"> 
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="csharp"/></a> 
-  
-<a href="https://www.w3schools.com/css/" target="_blank"> 
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/></a> 
-
+Formações 🎓
+-
+ - Graduanda em Engenharia de Computação pelo SENAI (Centro Universitário Senai Cimatec) - 12/2024
+ - Técnica em Informática pelo SENAI CIMATEC.
+ 
+Habilidades
+-
 <a href="https://www.w3.org/html/" target="_blank"> 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/></a> 
-
-<a href="https://www.python.org" target="_blank">
-<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="python"/></a>
-
-</p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/></a>  <a href="https://www.w3schools.com/css/" target="_blank"> 
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/></a> <a href="https://www.python.org" target="_blank">
+<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="python"/></a> <a href="https://www.w3schools.com/cs/" target="_blank"> 
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="csharp"/></a> 
 
 
+ 🚧 Certificações ✅  Em construção... 🚧
+ -
 
-<a href="https://github.com/Nathalia1234/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=nathalia1234&hide=stars,issues&show_icons=true&locale=en&theme=radical" alt="nathalia1234"/>
+ - <a href="https://drive.google.com/file/d/1KQVcqmVsmJGPMsXjHZwQTRTRPTKCV1rt/view?usp=sharing" rel="nofollow">Programando em Python: da lógica de programação ao trabalho com dados abertos na web
+ 
+</a>
 
-<a href="https://github.com/Nathalia1234/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathalia1234&layout=compact&theme=radical"/>
+ - <a>
 
+</a>
+
+	
+	
+	

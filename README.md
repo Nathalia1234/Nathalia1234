@@ -21,7 +21,7 @@ Graduanda em Engenharia da Computação, amante da tecnologia, robótica e autom
 Formações 🎓
 -
  - Graduanda em Engenharia de Computação pelo SENAI (Centro Universitário Senai Cimatec) - 12/2024
- - Técnica em Informática pelo SENAI CIMATEC.
+ - Técnica em Informática pelo SENAI CIMATEC - 07/2020
  
 Habilidades
 -

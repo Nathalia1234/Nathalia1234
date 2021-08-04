@@ -48,9 +48,9 @@ Habilidades 🛠
 
  - <a href="https://drive.google.com/file/d/1C49i2JV22L_npnnSjV5la_nSu_10zOXw/view?usp=sharing" rel="nofollow">Introdução à Cibersegurança </a>
 
-- <a href="https://drive.google.com/drive/u/0/folders/1yUq_yxwrrd0UjCvTz9rf9LFH0O71Nx9x" rel="nofollow">Segurança da rede <a/>
+- <a href="https://drive.google.com/file/d/1mzbDU4WN83YqyIBK8zMbt9RqyTkHxqCU/view?usp=sharing" rel="nofollow">Segurança da rede <a/>
 
-- <a href="https://drive.google.com/drive/u/0/folders/1yUq_yxwrrd0UjCvTz9rf9LFH0O71Nx9x" rel="nofollow">CCNAv7: Introdução às redes </a>
+- <a href="https://drive.google.com/file/d/1aNats3Zeyp7vbArmEsTfyr7YIgX1i6sL/view?usp=sharing" rel="nofollow">CCNAv7: Introdução às redes </a>
 
 
  

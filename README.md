@@ -17,20 +17,28 @@ Oii 👋,
 -
 Graduanda em Engenharia da Computação, amante da tecnologia, robótica e automação, apaixonada por novos conhecimentos. Meu hobby é jogar games, assistir séries, documentários e filmes de comédia, ação, aventura e suspense.
 
-![download20210803142140](https://user-images.githubusercontent.com/37275221/128225936-63e177ee-88ae-48a1-8bd4-86e04d14b402.png "Caricatura" )
+
+	
+<img src="https://user-images.githubusercontent.com/37275221/128225936-63e177ee-88ae-48a1-8bd4-86e04d14b402.png" width="150px" height="150px">
+
+<br><br/>
 
 Formações 🎓
 -
  - Graduanda em Engenharia de Computação pelo SENAI (Centro Universitário Senai Cimatec) - 12/2024
  - Técnica em Informática pelo SENAI CIMATEC - 07/2020
  
-Habilidades
+ <br><br/>
+ 
+Habilidades 🛠
 -
 <a href="https://www.w3.org/html/" target="_blank"> 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/></a>  <a href="https://www.w3schools.com/css/" target="_blank"> 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/></a> <a href="https://www.python.org" target="_blank">
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="python"/></a> <a href="https://www.w3schools.com/cs/" target="_blank"> 
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="csharp"/></a> 
+
+<br><br/>
 
 
  🚧 Certificações ✅  Em construção... 🚧

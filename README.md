@@ -17,6 +17,7 @@ Oii 👋,
 -
 Graduanda em Engenharia da Computação, amante da tecnologia, robótica e automação, apaixonada por novos conhecimentos. Meu hobby é jogar games, assistir séries, documentários e filmes de comédia, ação, aventura e suspense.
 
+![download20210803142140](https://user-images.githubusercontent.com/37275221/128225936-63e177ee-88ae-48a1-8bd4-86e04d14b402.png "Caricatura" )
 
 Formações 🎓
 -
@@ -42,6 +43,7 @@ Habilidades
  - <a href="https://drive.google.com/file/d/1C49i2JV22L_npnnSjV5la_nSu_10zOXw/view?usp=sharing" rel="nofollow">Introdução à Cibersegurança
  
 </a>
+
 
 
 

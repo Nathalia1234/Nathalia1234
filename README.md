@@ -44,15 +44,13 @@ Habilidades 🛠
  🚧 Certificações ✅  Em construção... 🚧
  -
 
- - <a href="https://drive.google.com/file/d/1KQVcqmVsmJGPMsXjHZwQTRTRPTKCV1rt/view?usp=sharing" rel="nofollow">Programando em Python: da lógica de programação ao trabalho com dados abertos na web
- 
-</a>
+ - <a href="https://drive.google.com/file/d/1KQVcqmVsmJGPMsXjHZwQTRTRPTKCV1rt/view?usp=sharing" rel="nofollow">Programando em Python: da lógica de programação ao trabalho com dados abertos na web </a>
 
- - <a href="https://drive.google.com/file/d/1C49i2JV22L_npnnSjV5la_nSu_10zOXw/view?usp=sharing" rel="nofollow">Introdução à Cibersegurança
- 
-</a>
+ - <a href="https://drive.google.com/file/d/1C49i2JV22L_npnnSjV5la_nSu_10zOXw/view?usp=sharing" rel="nofollow">Introdução à Cibersegurança </a>
 
+- <a href="https://drive.google.com/drive/u/0/folders/1yUq_yxwrrd0UjCvTz9rf9LFH0O71Nx9x" rel="nofollow">Segurança da rede <a/>
 
+- <a href="https://drive.google.com/drive/u/0/folders/1yUq_yxwrrd0UjCvTz9rf9LFH0O71Nx9x" rel="nofollow">CCNAv7: Introdução às redes </a>
 
 
  

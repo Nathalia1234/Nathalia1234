@@ -72,4 +72,15 @@ Jogo da Cobrinha 🐍
 Repositórios
 -	
 	
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nathalia1234&repo=calculadora_simples&theme=dark)](https://github.com/Nathalia1234/github-readme-stats)	
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nathalia1234&repo=calculadora_simples&theme=dark)](https://github.com/Nathalia1234/github-readme-stats)
+	
+	
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nathalia1234&repo=conversor_de_moeda&theme=dark)](https://github.com/Nathalia1234/github-readme-stats)
+	
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nathalia1234&repo=consumo-de-api-json-com-python&theme=dark)](https://github.com/Nathalia1234/github-readme-stats)	
+	
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nathalia1234&repo=curso-de-python&theme=dark)](https://github.com/Nathalia1234/github-readme-stats)	
+	
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nathalia1234&repo=atividade_pratica_dashboards_powerBI&theme=dark)](https://github.com/Nathalia1234/github-readme-stats)
+	
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nathalia1234&repo=formulario&theme=dark)](https://github.com/Nathalia1234/github-readme-stats)	

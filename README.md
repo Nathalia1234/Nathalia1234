@@ -69,24 +69,4 @@ Jogo da Cobrinha 🐍
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Nathalia1234/count.svg" /></p>
 <p align="center"> Obrigado e volte sempre 👋 </p>
 	
-Repositórios
--	
-
-
-<table> 	<tbody><tr>	 	<td><a target="_blank" rel="noopener noreferrer" href="https://github.com/Nathalia1234/github-readme-stats"><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/pin/username=Nathalia1234&repo=calculadora_simples&theme=dark"></a></td>
-
-<td><a target="_blank" rel="noopener noreferrer" href="https://github.com/Nathalia1234/github-readme-stats"><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Nathalia1234&repo=conversor_de_moeda&theme=dark" style="max-width:100%;"/></a></td>
-</tr></tbody></table>	
-	
-	
-<table> 	<tbody><tr>	 	<td><a target="_blank" rel="noopener noreferrer" href="https://github.com/Nathalia1234/github-readme-stats"><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Nathalia1234&repo=consumo-de-api-json-com-python&theme=dark"></a></td>
-	
-<td><a target="_blank" rel="noopener noreferrer" href="https://github.com/Nathalia1234/github-readme-stats"><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Nathalia1234&repo=curso-de-python&theme=dark"></a></td>	
-</tr></tbody></table>
-	
-	
-<table> 	<tbody><tr>	 	<td><a target="_blank" rel="noopener noreferrer" href="https://github.com/Nathalia1234/github-readme-stats"><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Nathalia1234&repo=atividade_pratica_dashboards_powerBI&theme=dark"></a></td>
-
-<td><a target="_blank" rel="noopener noreferrer" href="https://github.com/Nathalia1234/github-readme-stats"><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Nathalia1234&repo=formulario&theme=dark"></a></td>	
-</tr></tbody></table>
 

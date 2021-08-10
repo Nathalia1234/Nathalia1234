@@ -1,7 +1,7 @@
 
 **Nathalia Ohana Barigchum Leite :woman_technologist:**
 -
-<div>
+<div align="center">
 <a href="mailto:nathe557@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/nath%C3%A1lia-ohana-867524134/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/nathalialeitee24/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -9,8 +9,11 @@
 
 <br>
 
+<div align="center">
+	
 [![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/Nathalia1234?tab=repositories)
 	
+</div>	
 
 
 <table> 	<tbody><tr>	 	<td><a target="_blank" rel="noopener noreferrer" href="https://github.com/Nathalia1234/github-readme-stats"> <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=nathalia1234&repo=github-stats&hide=stars,issues&show_icons=true&locale=&theme=dark" alt="nathalia1234"/> </a></td>	 <td><a target="_blank" rel="noopener noreferrer" href="https://github.com/Nathalia1234/convoychat"> <img width="495px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathalia1234&repo=convoychat&layout=compact&theme=dark" style="max-width:100%;"/> </a></td></tr>   	 </tbody></table>

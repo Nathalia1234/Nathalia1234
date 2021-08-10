@@ -69,3 +69,7 @@ Jogo da Cobrinha 🐍
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Nathalia1234/count.svg" /></p>
 <p align="center"> Obrigado e volte sempre 👋 </p>
 	
+Repositórios
+-	
+	
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nathalia1234&repo=calculadora_simples&theme=dark)](https://github.com/Nathalia1234/github-readme-stats)	

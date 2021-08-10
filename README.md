@@ -24,7 +24,7 @@
 
 Oii 👋, 
 -
-Cursando o 5º semestre em Engenharia da Computação,  amante da tecnologia, robótica e automação, apaixonada por novos conhecimentos. Meu hobby é jogar games mobile, assistir séries, documentários, gameplays e filmes de comédia, ação, aventura e suspense.
+Cursando o 5º semestre em Engenharia da Computação,  amante da tecnologia, robótica e automação, apaixonada por novos conhecimentos. Meu hobby é jogar games mobile, assistir séries, documentários, gameplays e filmes de comédia, ação, aventura e suspense, além disso curto muito fazer alguns projetinhos com arduíno. 
 
 
 	

@@ -34,7 +34,7 @@ Graduanda em Engenharia da Computação, cursando o 5º semestre,  amante da tec
 
 Formações 🎓
 -
- - Graduanda em Engenharia de Computação pelo SENAI (Centro Universitário SENAI CIMATEC) - 12/2024
+ - Graduanda em Engenharia de Computação pelo SENAI (Centro Universitário Senai Cimatec) - 12/2024
  - Técnica em Informática pelo SENAI CIMATEC - 07/2020
  
  <br><br/>

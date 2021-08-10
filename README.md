@@ -54,7 +54,9 @@ Habilidades 🛠
 
 - <a href="https://drive.google.com/file/d/1aNats3Zeyp7vbArmEsTfyr7YIgX1i6sL/view?usp=sharing" rel="nofollow">CCNAv7: Introdução às redes </a>
 		
-
+Jogo da Cobrinha 🐍
+-
+	
 ![Snake animation](https://github.com/Nathalia1234/Nathalia1234/blob/output/github-contribution-grid-snake.svg)
 
 	

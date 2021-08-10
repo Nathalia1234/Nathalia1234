@@ -1,4 +1,5 @@
 
+
 **Nathalia Ohana Barigchum Leite :woman_technologist:**
 -
 <div align="center">
@@ -27,7 +28,7 @@ Graduanda em Engenharia da Computação, amante da tecnologia, robótica e autom
 
 
 	
-<img src="https://user-images.githubusercontent.com/37275221/128225936-63e177ee-88ae-48a1-8bd4-86e04d14b402.png" width="150px" height="150px">
+<img src="https://user-images.githubusercontent.com/37275221/128928867-cb43917b-baef-417d-a832-53f08f1aa0d1.gif" width="150px" height="150px">
 
 <br><br/>
 

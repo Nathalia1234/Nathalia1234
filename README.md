@@ -18,7 +18,7 @@
 </div>	
 
 
-<table> 	<tbody><tr>	 	<td><a target="_blank" rel="noopener noreferrer" href="https://github.com/Nathalia1234/github-readme-stats"> <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=nathalia1234&repo=github-stats&hide=stars,issues&show_icons=true&locale=&theme=dark" alt="nathalia1234"/> </a></td>	 <td><a target="_blank" rel="noopener noreferrer" href="https://github.com/Nathalia1234/convoychat"> <img width="495px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathalia1234&repo=convoychat&layout=compact&theme=dark" style="max-width:100%;"/> </a></td></tr>   	 </tbody></table>
+<table> 	<tbody><tr>	 	<td><a target="_blank" rel="noopener noreferrer" href="https://github.com/Nathalia1234/github-readme-stats"> <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=nathalia1234&repo=github-stats&hide=stars,issues&show_icons=true&locale=&theme=vue-dark" alt="nathalia1234"/> </a></td>	 <td><a target="_blank" rel="noopener noreferrer" href="https://github.com/Nathalia1234/convoychat"> <img width="495px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathalia1234&repo=convoychat&layout=compact&theme=vue-dark" style="max-width:100%;"/> </a></td></tr>   	 </tbody></table>
 
 
 Oii 👋, 

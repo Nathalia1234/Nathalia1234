@@ -23,7 +23,7 @@
 
 Oii 👋, 
 -
-Graduanda em Engenharia da Computação, amante da tecnologia, robótica e automação, apaixonada por novos conhecimentos. Meu hobby é jogar games, assistir séries, documentários e filmes de comédia, ação, aventura e suspense.
+Graduanda em Engenharia da Computação, amante da tecnologia, robótica e automação, apaixonada por novos conhecimentos. Meu hobby é jogar games mobile, assistir séries, documentários e filmes de comédia, ação, aventura e suspense.
 
 
 	

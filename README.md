@@ -56,4 +56,9 @@ Habilidades 🛠
 		
 
 ![Snake animation](https://github.com/Nathalia1234/Nathalia1234/blob/output/github-contribution-grid-snake.svg)
+
+	
+<p align="center"> Quantidade de visitas no meu perfil 👀 </p>
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Nathalia1234/count.svg" /></p>
+<p align="center"> Obrigado e volte sempre 👋 </p>
 	

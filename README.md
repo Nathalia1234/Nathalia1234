@@ -68,6 +68,6 @@ Jogo da Cobrinha 🐍
 	
 <p align="center"> Quantidade de visitas no meu perfil 👀 </p>
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Nathalia1234/count.svg" /></p>
-<p align="center"> Obrigado e volte sempre 👋 </p>
+<p align="center"> Obrigado(a) e volte sempre 👋 </p>
 	
 

@@ -59,6 +59,8 @@ Habilidades 🛠
 - <a href="https://drive.google.com/file/d/1mzbDU4WN83YqyIBK8zMbt9RqyTkHxqCU/view?usp=sharing" rel="nofollow">Segurança da rede <a/>
 
 - <a href="https://drive.google.com/file/d/1aNats3Zeyp7vbArmEsTfyr7YIgX1i6sL/view?usp=sharing" rel="nofollow">CCNAv7: Introdução às redes </a>
+	
+- <a href="https://drive.google.com/file/d/1IxvDz-pUZ9ZINHP_5wMRXweqvORXUkWa/view?usp=sharing" rel="nofollow"> Diploma do Curso Técnico em Informática </a>	
 		
 Jogo da Cobrinha 🐍
 -

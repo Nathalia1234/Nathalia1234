@@ -95,8 +95,10 @@ Office 💻
 	
 Especificações do espaço de trabalho 💻
 -
-<img src="https://img.shields.io/badge/NVIDIA-GeForce MX110-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt=""/></a><a href="" target="_blank">
-<img src="https://img.shields.io/badge/Intel-Core_i7_8550U-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt=""/></a><a href="" target="_blank">
+<a href="https://www.nvidia.com/pt-br/drivers/nvidia-geforce-mx110/" target="_blank">
+<img src="https://img.shields.io/badge/NVIDIA-GeForce MX110-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt=""/></a><a href="https://www.nvidia.com/pt-br/drivers/nvidia-geforce-mx110/" target="_blank">
+<a href="https://www.intel.com.br/content/www/br/pt/products/sku/122589/intel-core-i78550u-processor-8m-cache-up-to-4-00-ghz/specifications.html" target="_blank">
+<img src="https://img.shields.io/badge/Intel-Core_i7_8550U-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt=""/></a><a href="https://www.intel.com.br/content/www/br/pt/products/sku/122589/intel-core-i78550u-processor-8m-cache-up-to-4-00-ghz/specifications.html" target="_blank">
      
      
 <br><br/>	

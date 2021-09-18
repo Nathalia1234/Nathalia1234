@@ -48,7 +48,48 @@ Habilidades 🛠
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/></a> <a href="https://getbootstrap.com/" target="_blank">	
 
 <br><br/>
+	
+Navegadores da Web que mais utilizo  🛠	
+-
+<img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="Google Chrome"/></a> <a href="https://www.google.com/intl/pt-BR/chrome/" target="_blank">	
+	
+<br><br/>
+	
+Sistema Operacional 💻 
+-
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/></a> <a href="" target="_blank">	
+	
+<br><br/>
+	
+IDE's 🛠
+-
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code"/></a> <a href="" target="_blank">	
+<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual Studio"/></a> <a href="" target="_blank">
+<img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" alt="PyCharm"/></a> <a href="" target="_blank">
+	
+<br><br/>	
+	
+Plataforma de Prototipagem 🛠
+-
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduíno"/></a><a href="" target="_blank">
 
+<br><br/>	
+	
+Office 💻
+-
+<img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="Word"/></a><a href="" target="_blank">
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/></a><a href="" target="_blank">
+<img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" alt="Power Point"/></a><a href="" target="_blank">
+	
+<br><br/>		
+	
+Especificações do espaço de trabalho 💻
+-
+<img src="https://img.shields.io/badge/NVIDIA-GeForce MX110-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt=""/></a><a href="" target="_blank">
+<img src="https://img.shields.io/badge/Intel-Core_i7_8550U-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt=""/></a><a href="" target="_blank">
+     
+     
+<br><br/>	
 
  🚧 Certificações ✅  Em construção... 🚧
  -

@@ -44,41 +44,51 @@ Habilidades 🛠
 <a href="https://www.w3.org/html/" target="_blank"> 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/></a>  <a href="https://www.w3schools.com/css/" target="_blank"> 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/></a> <a href="https://www.python.org" target="_blank">
-<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="python"/></a> <a href="https://www.w3schools.com/cs/" target="_blank"> 
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/></a> <a href="https://getbootstrap.com/" target="_blank">	
+<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="python"/></a> <a href="https://www.w3schools.com/cs/" target="_blank">
+<a href="https://getbootstrap.com/" target="_blank">
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/></a><a href="https://getbootstrap.com/" target="_blank">
 
 <br><br/>
 	
 Navegadores da Web que mais utilizo  🛠	
 -
-<img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="Google Chrome"/></a> <a href="https://www.google.com/intl/pt-BR/chrome/" target="_blank">	
+<a href="https://www.google.com/intl/pt-BR/chrome/" target="_blank">	
+<img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="Google Chrome"/></a><a href="https://www.google.com/intl/pt-BR/chrome/" target="_blank">	
 	
 <br><br/>
 	
 Sistema Operacional 💻 
 -
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/></a> <a href="" target="_blank">	
+<a href="https://www.microsoft.com/pt-br/software-download/windows10" target="_blank">	
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/></a><a href="https://www.microsoft.com/pt-br/software-download/windows10" target="_blank">	
 	
 <br><br/>
 	
 IDE's 🛠
 -
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code"/></a> <a href="https://code.visualstudio.com/" target="_blank">	
-<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual Studio"/></a> <a href="https://visualstudio.microsoft.com/pt-br/downloads/" target="_blank">
-<img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" alt="PyCharm"/></a> <a href="https://www.jetbrains.com/pt-br/pycharm/download/#section=windows" target="_blank">
+<a href="https://code.visualstudio.com/" target="_blank">
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code"/></a><a href="https://code.visualstudio.com/" target="_blank">
+<a href="https://visualstudio.microsoft.com/pt-br/downloads/" target="_blank">
+<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual Studio"/></a><a href="https://visualstudio.microsoft.com/pt-br/downloads/" target="_blank">
+<a href="https://www.jetbrains.com/pt-br/pycharm/download/#section=windows" target="_blank">
+<img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" alt="PyCharm"/></a><a href="https://www.jetbrains.com/pt-br/pycharm/download/#section=windows" target="_blank">
 	
 <br><br/>	
 	
 Plataforma de Prototipagem 🛠
 -
+<a href="https://www.arduino.cc/en/software" target="_blank">
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduíno"/></a><a href="https://www.arduino.cc/en/software" target="_blank">
 
 <br><br/>	
 	
 Office 💻
 -
+<a href="https://www.microsoft.com/pt-br/microsoft-365/word" target="_blank">
 <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="Word"/></a><a href="https://www.microsoft.com/pt-br/microsoft-365/word" target="_blank">
+<a href="https://www.microsoft.com/pt-br/microsoft-365/excel" target="_blank">
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/></a><a href="https://www.microsoft.com/pt-br/microsoft-365/excel" target="_blank">
+<a href="https://www.microsoft.com/pt-br/microsoft-365/powerpoint" target="_blank">
 <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" alt="Power Point"/></a><a href="https://www.microsoft.com/pt-br/microsoft-365/powerpoint" target="_blank">
 	
 <br><br/>		

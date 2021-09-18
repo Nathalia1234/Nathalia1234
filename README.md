@@ -53,7 +53,10 @@ Habilidades 🛠
 Navegadores da Web que mais utilizo  🛠	
 -
 <a href="https://www.google.com/intl/pt-BR/chrome/" target="_blank">	
-<img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="Google Chrome"/></a><a href="https://www.google.com/intl/pt-BR/chrome/" target="_blank">	
+<img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="Google Chrome"/></a><a href="https://www.google.com/intl/pt-BR/chrome/" target="_blank">
+<a href="https://www.mozilla.org/pt-BR/firefox/new/" target="_blank">
+<img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Firefox"/></a><a href="https://www.mozilla.org/pt-BR/firefox/new/" target="_blank">
+
 	
 <br><br/>
 	

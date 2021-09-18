@@ -47,6 +47,8 @@ Habilidades 🛠
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="python"/></a> <a href="https://www.w3schools.com/cs/" target="_blank">
 <a href="https://getbootstrap.com/" target="_blank">
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/></a><a href="https://getbootstrap.com/" target="_blank">
+<a href="https://www.markdownguide.org/getting-started/" target="_blank">
+<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"/></a><a href="https://www.markdownguide.org/getting-started/" target="_blank"> 
 
 <br><br/>
 	

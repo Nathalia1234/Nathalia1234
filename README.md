@@ -117,8 +117,8 @@ Especificações do espaço de trabalho 💻
  🚧 Certificações ✅  Em construção... 🚧
  -
 
- - <a href="https://drive.google.com/file/d/1KQVcqmVsmJGPMsXjHZwQTRTRPTKCV1rt/view?usp=sharing" rel="nofollow">Programando em Python: da lógica de programação ao trabalho com dados abertos na web </a>
-
+ - <a href="https://drive.google.com/file/d/1iVti7HJA9jTULX6xXUpo1zeg2r2vzXTu/view?usp=sharing" rel="nofollow">Programando em Python: da lógica de programação ao trabalho com dados abertos na web </a>
+	
  - <a href="https://drive.google.com/file/d/1C49i2JV22L_npnnSjV5la_nSu_10zOXw/view?usp=sharing" rel="nofollow">Introdução à Cibersegurança </a>
 
 - <a href="https://drive.google.com/file/d/1mzbDU4WN83YqyIBK8zMbt9RqyTkHxqCU/view?usp=sharing" rel="nofollow">Segurança da rede <a/>

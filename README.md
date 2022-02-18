@@ -14,8 +14,8 @@
 
 <div align="center">
 	
-[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/Nathalia1234?tab=repositories)
-	
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
 </div>	
 
 
@@ -49,6 +49,8 @@ Habilidades 🛠
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/></a><a href="https://getbootstrap.com/" target="_blank">
 <a href="https://www.markdownguide.org/getting-started/" target="_blank">
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"/></a><a href="https://www.markdownguide.org/getting-started/" target="_blank"> 
+<img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django"/></a><a href="https://www.djangoproject.com" target="_blank"> 
+
 
 <br><br/>
 	
@@ -58,7 +60,7 @@ Navegadores da Web que mais utilizo  🛠
 <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="Google Chrome"/></a><a href="https://www.google.com/intl/pt-BR/chrome/" target="_blank">
 <a href="https://www.mozilla.org/pt-BR/firefox/new/" target="_blank">
 <img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Firefox"/></a><a href="https://www.mozilla.org/pt-BR/firefox/new/" target="_blank">
-
+<img src="https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white" alt="Opera"/></a><a href="https://www.opera.com/pt-br" target="_blank">
 	
 <br><br/>
 	
@@ -95,6 +97,7 @@ Office 💻
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/></a><a href="https://www.microsoft.com/pt-br/microsoft-365/excel" target="_blank">
 <a href="https://www.microsoft.com/pt-br/microsoft-365/powerpoint" target="_blank">
 <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" alt="Power Point"/></a><a href="https://www.microsoft.com/pt-br/microsoft-365/powerpoint" target="_blank">
+
 	
 <br><br/>		
 	

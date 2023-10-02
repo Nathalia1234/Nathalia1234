@@ -24,7 +24,7 @@
 
 Oii 👋, 
 -
-Cursando o 5º semestre em Engenharia da Computação,  amante da tecnologia, robótica e automação, apaixonada por novos conhecimentos. Meu hobby é jogar games, assistir séries, documentários, gameplays e filmes de comédia, ação, aventura e suspense, além disso curto muito fazer alguns projetinhos com arduíno e também com algumas linguagens de programação [PYTHON] mais o framework [DJANGO] ou linguagem de marcação [HTML] mais de estilização [CSS]. 
+Cursando o 6º semestre em Engenharia da Computação,  amante da tecnologia, robótica e automação, apaixonada por novos conhecimentos. Meu hobby é jogar games, assistir séries, documentários, gameplays e filmes de comédia, ação, aventura e suspense, além disso curto muito fazer alguns projetinhos com arduíno e também com algumas linguagens de programação [PYTHON] mais o framework [DJANGO] ou linguagem de marcação [HTML] mais de estilização [CSS]. 
 
 
 	

@@ -34,8 +34,8 @@ Cursando o 6º semestre em Engenharia da Computação,  amante da tecnologia, ro
 
 Formações 🎓
 -
- - Graduanda em Engenharia de Computação pelo SENAI (Centro Universitário Senai Cimatec) - 12/2024
- - Técnica em Informática pelo SENAI CIMATEC - 07/2020
+ - Graduanda em Engenharia da Computação pelo SENAI (Centro Universitário Senai Cimatec) - 12/2025
+ - Técnica em Informática pela Escola Técnica SENAI BAHIA - 07/2020
  
  <br><br/>
  

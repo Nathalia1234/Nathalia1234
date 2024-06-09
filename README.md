@@ -5,7 +5,6 @@
 <div align="center">
 <a href="mailto:nathe557@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/nath%C3%A1lia-ohana-867524134/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://www.instagram.com/nathalialeitee24/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 	
 </div>	
@@ -44,18 +43,29 @@ Habilidades 🛠
 <a href="https://www.w3.org/html/" target="_blank"> 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/></a>  <a href="https://www.w3schools.com/css/" target="_blank"> 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/></a> <a href="https://www.python.org" target="_blank">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="js"/></a> <a href="https://support.microsoft.com/pt-br/topic/como-habilitar-o-javascript-no-windows-88d27b37-6484-7fc0-17df-872f65168279" target="_blank">
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="python"/></a> <a href="https://www.w3schools.com/cs/" target="_blank">
 <a href="https://getbootstrap.com/" target="_blank">
+<img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django"/></a><a href="https://www.djangoproject.com" target="_blank">
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++"/></a><a href="https://pt.wikipedia.org/wiki/C%2B%2B" target="_blank">
+<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="sql server"/></a><a href="https://www.microsoft.com/pt-br/sql-server/sql-server-downloads" target="_blank">
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/></a><a href="https://getbootstrap.com/" target="_blank">
 <a href="https://www.markdownguide.org/getting-started/" target="_blank">
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"/></a><a href="https://www.markdownguide.org/getting-started/" target="_blank"> 
-<img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django"/></a><a href="https://www.djangoproject.com" target="_blank"> 
+
+<br><br/>
+
+Design 🖍
+-
+<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="canva"/></a><a href="https://www.canva.com/pt_br/" target="_blank"> 
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma"/></a><a href="https://www.figma.com/pt-br/" target="_blank"> 
 
 
 <br><br/>
 	
-Navegadores da Web que mais utilizo  🛠	
--
+Navegadores da Web que mais utilizo 🛠
+- 
+
 <a href="https://www.google.com/intl/pt-BR/chrome/" target="_blank">	
 <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="Google Chrome"/></a><a href="https://www.google.com/intl/pt-BR/chrome/" target="_blank">
 <a href="https://www.mozilla.org/pt-BR/firefox/new/" target="_blank">
@@ -70,26 +80,31 @@ Sistema Operacional 💻
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/></a><a href="https://www.microsoft.com/pt-br/software-download/windows10" target="_blank">	
 	
 <br><br/>
-	
+
+ 
 IDE's 🛠
 -
 <a href="https://code.visualstudio.com/" target="_blank">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code"/></a><a href="https://code.visualstudio.com/" target="_blank">
-<a href="https://visualstudio.microsoft.com/pt-br/downloads/" target="_blank">
-<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual Studio"/></a><a href="https://visualstudio.microsoft.com/pt-br/downloads/" target="_blank">
 <a href="https://www.jetbrains.com/pt-br/pycharm/download/#section=windows" target="_blank">
 <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" alt="PyCharm"/></a><a href="https://www.jetbrains.com/pt-br/pycharm/download/#section=windows" target="_blank">
+<a href="https://colab.google/" target="_blank">
+<img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" alt="PyCharm"/></a><a href="https://colab.google/" target="_blank">
+<a href="https://colab.google/" target="_blank">
+<img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" alt="PyCharm"/></a><a href="https://colab.google/" target="_blank">
 	
 <br><br/>	
-	
+
+ 
 Plataforma de Prototipagem 🛠
 -
 <a href="https://www.arduino.cc/en/software" target="_blank">
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduíno"/></a><a href="https://www.arduino.cc/en/software" target="_blank">
 
 <br><br/>	
-	
-Office 💻
+
+ 
+Office 365 💻
 -
 <a href="https://www.microsoft.com/pt-br/microsoft-365/word" target="_blank">
 <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="Word"/></a><a href="https://www.microsoft.com/pt-br/microsoft-365/word" target="_blank">
@@ -97,10 +112,13 @@ Office 💻
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/></a><a href="https://www.microsoft.com/pt-br/microsoft-365/excel" target="_blank">
 <a href="https://www.microsoft.com/pt-br/microsoft-365/powerpoint" target="_blank">
 <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" alt="Power Point"/></a><a href="https://www.microsoft.com/pt-br/microsoft-365/powerpoint" target="_blank">
+<a href="https://www.microsoft.com/pt-br/power-platform/products/power-bi" target="_blank">
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black" alt="Power BI"/></a><a href="https://www.microsoft.com/pt-br/power-platform/products/power-bi" target="_blank">
 
 	
 <br><br/>		
-	
+
+ 
 Especificações do espaço de trabalho 💻
 -
 <a href="https://www.nvidia.com/pt-br/drivers/nvidia-geforce-mx110/" target="_blank">
@@ -111,7 +129,14 @@ Especificações do espaço de trabalho 💻
 <a href="" target="_blank">
 <img src="https://img.shields.io/badge/samsung-laptop-0071C5?style=for-the-badge&logo=samsung&logoColor=white" alt="samsung"/></a><a href="http://www.w3.org/2000/svg" target="_blank">
 	
-    
+<br><br/>
+
+Ferramentas para produtividade e gerenciamento de projetos💻
+-
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="notion"/></a><a href="https://www.notion.so/pt-br" target="_blank">
+<img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="trello"/></a><a href="https://trello.com/?&aceid=&adposition=&adgroup=150132247851&campaign=19250238465&creative=641355031678&device=c&keyword=trello&matchtype=e&network=g&placement=&ds_kids=p74516154627&ds_e=GOOGLE&ds_eid=700000001557344&ds_e1=GOOGLE&gad_source=1&gclid=EAIaIQobChMI67vH6rLPhgMVItEWBR3UlgZXEAAYASAAEgKgLPD_BwE&gclsrc=aw.ds" target="_blank">
+
+
      
 <br><br/>	
 	

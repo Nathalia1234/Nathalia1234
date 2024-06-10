@@ -166,7 +166,7 @@ Ferramentas para produtividade e gerenciamento de projetos💻
 	
 <br><br/>	
 
-Resumo da minha vida:
+Resumo da minha vida 😂🙏
 -
 <br>
 

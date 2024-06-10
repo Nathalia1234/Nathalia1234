@@ -89,7 +89,7 @@ Navegadores da Web que mais utilizo 💻
 	
 <br><br/>
 	
-Sistema Operacional 💻 
+Sistema Operacional 💻
 -
 <a href="https://www.microsoft.com/pt-br/software-download/windows10" target="_blank">	
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/></a><a href="https://www.microsoft.com/pt-br/software-download/windows10" target="_blank">	
@@ -151,8 +151,6 @@ Ferramentas para produtividade e gerenciamento de projetos💻
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="notion"/></a><a href="https://www.notion.so/pt-br" target="_blank">
 <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="trello"/></a><a href="https://trello.com/?&aceid=&adposition=&adgroup=150132247851&campaign=19250238465&creative=641355031678&device=c&keyword=trello&matchtype=e&network=g&placement=&ds_kids=p74516154627&ds_e=GOOGLE&ds_eid=700000001557344&ds_e1=GOOGLE&gad_source=1&gclid=EAIaIQobChMI67vH6rLPhgMVItEWBR3UlgZXEAAYASAAEgKgLPD_BwE&gclsrc=aw.ds" target="_blank">
 
-
-     
 <br><br/>	
 	
  🚧 Certificações em Andamento ✅ 🚧

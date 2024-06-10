@@ -30,6 +30,8 @@ Olá, Me chamo Nathalia 👋👩🏽‍💻
 -
 >Estou atualmente no 6º semestre de Engenharia da Computação, com uma forte paixão por tecnologia e análise de dados. Meu objetivo é sempre expandir meus conhecimentos e habilidades. No meu tempo livre, gosto de jogar games, assistir séries, documentários, gameplays, além de filmes. Sou entusiasta de aprendizado contínuo e frequentemente faço cursos para aprimorar minhas competências profissionais na área de análise de dados.
 
+> Tenho um portfólio de cases/dashboards que considero interessante e gostaria de convidá-lo(a) a dar uma olhada. Você pode acessá-lo através do seguinte link: [Portfólio de Dashboards.](https://dashboards.digital/editor/Nathalia%20Ohana%20Barigchum%20Leite)
+
 <p align="center"><img src="https://private-user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTc5ODUwOTUsIm5iZiI6MTcxNzk4NDc5NSwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk5MjctZjVkMmQ4NjYtZDI1Yy00ODczLThkODItNDI1ZDJjNjJmYzJlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MTAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjEwVDAxNTk1NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWEzNThiOTMzMDM4ODIxZWVkMjllOGY5NWRkMzFmN2FmYjBjYTY4NjkzMGU4YWYxMjE2ZTM2ZjU0ZjBkZDJlMjAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.zMECdWAWHzzuUg7Gcxx1gGnndGfCFQJAwZDeNBBedi0" alt="Centralized Image"></p>
 
 <br>

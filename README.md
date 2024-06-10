@@ -95,9 +95,10 @@ Navegadores da Web que mais utilizo 💻
 <img src="https://img.shields.io/badge/Google_chrome-DAA520?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="Google Chrome"/></a><a href="https://www.google.com/intl/pt-BR/chrome/" target="_blank">
 <a href="https://www.mozilla.org/pt-BR/firefox/new/" target="_blank">
 <img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Firefox"/></a><a href="https://www.mozilla.org/pt-BR/firefox/new/" target="_blank">
+<a href="https://www.opera.com/pt-br?gad_source=1&utm_campaign=%2300%20-%20WW%20-%20Search%20-%20EN%20-%20Branded&utm_content=37670026502&gclid=EAIaIQobChMI4arevPTPhgMVDwatBh3JGgb5EAAYASAAEgL68PD_BwE" target="_blank">
 <img src="https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white" alt="Opera"/></a><a href="https://www.opera.com/pt-br" target="_blank">
-<img src="https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white
-" alt="Opera"/></a><a href="https://www.opera.com/pt-br" target="_blank">
+<a href="https://www.microsoft.com/pt-br/edge?form=MA13FJ" target="_blank">
+<img src="https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white" alt="Microsoft-edge"/></a>
 
 	
 <br><br/>

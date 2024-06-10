@@ -1,6 +1,11 @@
+<div align="center">
+    <a target="_blank" rel="noopener noreferrer" href="https://github.com/Nathalia1234/convoychat">
+        <img width="495px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathalia1234&repo=convoychat&layout=compact&theme=jolly" style="width:400px; margin:auto;" alt="Top languages used by Nathalia1234"/>
+    </a>
+</div>
 
-Nathalia Ohana Barigchum Leite 👩🏽‍💻
---
+<br>
+
 <div align="center">
     <a href="mailto:nathe557@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
@@ -20,14 +25,6 @@ Nathalia Ohana Barigchum Leite 👩🏽‍💻
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 </div>	
-
-
-<div align="center">
-    <a target="_blank" rel="noopener noreferrer" href="https://github.com/Nathalia1234/convoychat">
-        <img width="495px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathalia1234&repo=convoychat&layout=compact&theme=jolly" style="width:200px; margin:auto;" alt="Top languages used by Nathalia1234"/>
-    </a>
-</div>
-
 
 Olá, Me chamo Nathalia 👋👩🏽‍💻
 -

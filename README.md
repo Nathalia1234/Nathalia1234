@@ -52,17 +52,13 @@ Formações 🎓
 
 Linguagem de Marcação e Estilização 💻
 -
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/> <a href="https://www.markdownguide.org/getting-started/" target="_blank"><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"/></a> <a href="https://www.markdownguide.org/getting-started/" target="_blank"> 
 
  <br><br/>
  
 Linguagem de Programação 🛠
 -
-<a href="https://www.python.org" target="_blank">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="js"/></a><a href="https://support.microsoft.com/pt-br/topic/como-habilitar-o-javascript-no-windows-88d27b37-6484-7fc0-17df-872f65168279" target="_blank">
-<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="python"/></a> <a href="https://www.w3schools.com/cs/" target="_blank">
-<a href="https://getbootstrap.com/" target="_blank">
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++"/></a><a href="https://pt.wikipedia.org/wiki/C%2B%2B" target="_blank">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="js"/> <a href="https://support.microsoft.com/pt-br/topic/como-habilitar-o-javascript-no-windows-88d27b37-6484-7fc0-17df-872f65168279" target="_blank"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="python"/></a> <a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++"/></a><a href="https://pt.wikipedia.org/wiki/C%2B%2B" target="_blank">
 
 <br><br/>
 

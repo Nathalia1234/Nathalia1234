@@ -38,7 +38,7 @@ Olá, Me chamo Nathalia 👋👩🏽‍💻
 
 Formações 🎓
 -
- > - Graduanda em Engenharia da Computação pelo SENAI (Centro Universitário Senai Cimatec) - 12/2025
+ > - Graduanda em Engenharia da Computação pelo SENAI (Centro Universitário SENAI CIMATEC) - 12/2025
  > - Técnica em Informática pela Escola Técnica SENAI BAHIA - 07/2020
  
  <br><br/>

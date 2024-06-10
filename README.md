@@ -1,59 +1,96 @@
 
 
-**Nathalia Ohana Barigchum Leite :woman_technologist:**
+**Nathalia Ohana Barigchum Leite 👩🏽‍💻**
 -
 <div align="center">
-<a href="mailto:nathe557@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/nath%C3%A1lia-ohana-867524134/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-	
-</div>	
+    <a href="mailto:nathe557@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+    </a>
+    <a href="https://www.linkedin.com/in/nath%C3%A1lia-ohana-867524134/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    </a>
+    <a href="https://discord.com/channels/@me" target="_blank">
+        <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
+    </a>
+</div>
 
 <br>
 
 <div align="center">
-	
+
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 </div>	
 
 
-<table> 	<tbody><tr>	 	<td><a target="_blank" rel="noopener noreferrer" href="https://github.com/Nathalia1234/github-readme-stats"> <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=nathalia1234&repo=github-stats&hide=stars,issues&show_icons=true&locale=&theme=vue-dark" alt="nathalia1234"/> </a></td>	 <td><a target="_blank" rel="noopener noreferrer" href="https://github.com/Nathalia1234/convoychat"> <img width="495px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathalia1234&repo=convoychat&layout=compact&theme=vue-dark" style="max-width:100%;"/> </a></td></tr>   	 </tbody></table>
+<table>
+    <tbody>
+        <tr>
+            <td align="center">
+                <a target="_blank" rel="noopener noreferrer" href="https://github.com/Nathalia1234/convoychat">
+                    <img width="495px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathalia1234&repo=convoychat&layout=compact&theme=jolly" style="max-width:60%;" alt="Top languages used by Nathalia1234"/>
+                </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
 
 
-Oii 👋, 
+
+
+
+Olá, Me chamo Nathalia 👋👩🏽‍💻
 -
-Cursando o 6º semestre em Engenharia da Computação,  amante da tecnologia, robótica e automação, apaixonada por novos conhecimentos. Meu hobby é jogar games, assistir séries, documentários, gameplays e filmes de comédia, ação, aventura e suspense, além disso curto muito fazer alguns projetinhos com arduíno e também com algumas linguagens de programação [PYTHON] mais o framework [DJANGO] ou linguagem de marcação [HTML] mais de estilização [CSS]. 
+>Estou atualmente no 6º semestre de Engenharia da Computação, com uma forte paixão por tecnologia e análise de dados. Meu objetivo é sempre expandir meus conhecimentos e habilidades. No meu tempo livre, gosto de jogar games, assistir séries, documentários, gameplays, além de filmes. Sou entusiasta de aprendizado contínuo e frequentemente faço cursos para aprimorar minhas competências profissionais na área de análise de dados.
 
+<div style="text-align: center;">
+    <img src="https://private-user-images.githubusercontent.com/74038190/290079079-231375ce-58a3-4c3b-85c8-44ea51d1318f.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTc5Nzk1MzEsIm5iZiI6MTcxNzk3OTIzMSwicGF0aCI6Ii83NDAzODE5MC8yOTAwNzkwNzktMjMxMzc1Y2UtNThhMy00YzNiLTg1YzgtNDRlYTUxZDEzMThmLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MTAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjEwVDAwMjcxMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWVkNjQzMjUyMDI0NTYyYjUxYzc1ZjMyOGMwNDg1OTEwNmE0YzdmNzhjOWM5N2FmZDBkMmE1Zjg1NzM5OWRiMTcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.TTeUuTV2q26Mhoxt-Zd_VSdqgrerUYtyJLKTXpyHhzc">
+</div>
 
-	
-<img src="https://user-images.githubusercontent.com/37275221/128928867-cb43917b-baef-417d-a832-53f08f1aa0d1.gif" width="150px" height="150px">
 
 <br><br/>
 
 Formações 🎓
 -
- - Graduanda em Engenharia da Computação pelo SENAI (Centro Universitário Senai Cimatec) - 12/2025
- - Técnica em Informática pela Escola Técnica SENAI BAHIA - 07/2020
+ > - Graduanda em Engenharia da Computação pelo SENAI (Centro Universitário Senai Cimatec) - 12/2025
+ > - Técnica em Informática pela Escola Técnica SENAI BAHIA - 07/2020
  
  <br><br/>
- 
-Habilidades 🛠
+
+Linguagem de Marcação e Estilização 💻
 -
-<a href="https://www.w3.org/html/" target="_blank"> 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/></a>  <a href="https://www.w3schools.com/css/" target="_blank"> 
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/></a> <a href="https://www.python.org" target="_blank">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="js"/></a> <a href="https://support.microsoft.com/pt-br/topic/como-habilitar-o-javascript-no-windows-88d27b37-6484-7fc0-17df-872f65168279" target="_blank">
-<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="python"/></a> <a href="https://www.w3schools.com/cs/" target="_blank">
-<a href="https://getbootstrap.com/" target="_blank">
-<img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django"/></a><a href="https://www.djangoproject.com" target="_blank">
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++"/></a><a href="https://pt.wikipedia.org/wiki/C%2B%2B" target="_blank">
-<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="sql server"/></a><a href="https://www.microsoft.com/pt-br/sql-server/sql-server-downloads" target="_blank">
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/></a><a href="https://getbootstrap.com/" target="_blank">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
 <a href="https://www.markdownguide.org/getting-started/" target="_blank">
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"/></a><a href="https://www.markdownguide.org/getting-started/" target="_blank"> 
+ <br><br/>
+ 
+
+
+
+Linguagem de Programação 🛠
+-
+<a href="https://www.python.org" target="_blank">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="js"/></a><a href="https://support.microsoft.com/pt-br/topic/como-habilitar-o-javascript-no-windows-88d27b37-6484-7fc0-17df-872f65168279" target="_blank">
+<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="python"/></a> <a href="https://www.w3schools.com/cs/" target="_blank">
+<a href="https://getbootstrap.com/" target="_blank">
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++"/></a><a href="https://pt.wikipedia.org/wiki/C%2B%2B" target="_blank">
 
 <br><br/>
+
+
+Bibliotecas e Frameworks 🛠
+-
+<img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django"/></a><a href="https://www.djangoproject.com" target="_blank">
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/></a><a href="https://getbootstrap.com/" target="_blank">
+
+<br><br/> 
+
+Banco de Dados 🎲
+-
+<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="sql server"/></a><a href="https://www.microsoft.com/pt-br/sql-server/sql-server-downloads" target="_blank">
+<br><br/>
+
 
 Design 🖍
 -
@@ -63,14 +100,17 @@ Design 🖍
 
 <br><br/>
 	
-Navegadores da Web que mais utilizo 🛠
+Navegadores da Web que mais utilizo 💻
 - 
 
 <a href="https://www.google.com/intl/pt-BR/chrome/" target="_blank">	
-<img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="Google Chrome"/></a><a href="https://www.google.com/intl/pt-BR/chrome/" target="_blank">
+<img src="https://img.shields.io/badge/Google_chrome-DAA520?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="Google Chrome"/></a><a href="https://www.google.com/intl/pt-BR/chrome/" target="_blank">
 <a href="https://www.mozilla.org/pt-BR/firefox/new/" target="_blank">
 <img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Firefox"/></a><a href="https://www.mozilla.org/pt-BR/firefox/new/" target="_blank">
 <img src="https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white" alt="Opera"/></a><a href="https://www.opera.com/pt-br" target="_blank">
+<img src="https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white
+" alt="Opera"/></a><a href="https://www.opera.com/pt-br" target="_blank">
+
 	
 <br><br/>
 	
@@ -82,17 +122,16 @@ Sistema Operacional 💻
 <br><br/>
 
  
-IDE's 🛠
+Ambientes de Desenvolvimento de código-fonte 🛠
 -
 <a href="https://code.visualstudio.com/" target="_blank">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code"/></a><a href="https://code.visualstudio.com/" target="_blank">
 <a href="https://www.jetbrains.com/pt-br/pycharm/download/#section=windows" target="_blank">
 <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" alt="PyCharm"/></a><a href="https://www.jetbrains.com/pt-br/pycharm/download/#section=windows" target="_blank">
+<img src="https://img.shields.io/badge/Dev-C++-0078D4?style=for-the-badge&logo=devdotto&logoColor=white" alt="DEVC++"/></a><a href="https://code.visualstudio.com/" target="_blank">
 <a href="https://colab.google/" target="_blank">
 <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" alt="PyCharm"/></a><a href="https://colab.google/" target="_blank">
-<a href="https://colab.google/" target="_blank">
-<img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" alt="PyCharm"/></a><a href="https://colab.google/" target="_blank">
-	
+
 <br><br/>	
 
  
@@ -125,9 +164,10 @@ Especificações do espaço de trabalho 💻
 <img src="https://img.shields.io/badge/NVIDIA-GeForce MX110-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt=""/></a><a href="https://www.nvidia.com/pt-br/drivers/nvidia-geforce-mx110/" target="_blank">
 <a href="https://www.intel.com.br/content/www/br/pt/products/sku/122589/intel-core-i78550u-processor-8m-cache-up-to-4-00-ghz/specifications.html" target="_blank">
 <img src="https://img.shields.io/badge/Intel-Core_i7_8550U-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt=""/></a><a href="https://www.intel.com.br/content/www/br/pt/products/sku/122589/intel-core-i78550u-processor-8m-cache-up-to-4-00-ghz/specifications.html" target="_blank">
-	
 <a href="" target="_blank">
 <img src="https://img.shields.io/badge/samsung-laptop-0071C5?style=for-the-badge&logo=samsung&logoColor=white" alt="samsung"/></a><a href="http://www.w3.org/2000/svg" target="_blank">
+<a href="" target="_blank">
+<img src="https://img.shields.io/badge/monitor-20 pol, hd, 75Hz-0071C5?style=for-the-badge&logoColor=white" alt="samsung"/></a><a href="" target="_blank">
 	
 <br><br/>
 
@@ -140,28 +180,29 @@ Ferramentas para produtividade e gerenciamento de projetos💻
      
 <br><br/>	
 	
-	
-
- 🚧 Certificações ✅  Em construção... 🚧
+ 🚧 Certificações em Andamento ✅ 🚧
  -
 
  - <a href="https://drive.google.com/file/d/1iVti7HJA9jTULX6xXUpo1zeg2r2vzXTu/view?usp=sharing" rel="nofollow">Programando em Python: da lógica de programação ao trabalho com dados abertos na web </a>
 	
  - <a href="https://drive.google.com/file/d/1C49i2JV22L_npnnSjV5la_nSu_10zOXw/view?usp=sharing" rel="nofollow">Introdução à Cibersegurança </a>
 
-- <a href="https://drive.google.com/file/d/1mzbDU4WN83YqyIBK8zMbt9RqyTkHxqCU/view?usp=sharing" rel="nofollow">Segurança da rede <a/>
+- <a href="https://drive.google.com/file/d/1FM_ZFsqkrOCAnEzfNPPpXWIW9Yr85BwQ/view?usp=drive_link" rel="nofollow">Data Expert: O Fim dos Relatórios Amadores <a/>
 
-- <a href="https://drive.google.com/file/d/1aNats3Zeyp7vbArmEsTfyr7YIgX1i6sL/view?usp=sharing" rel="nofollow">CCNAv7: Introdução às redes </a>
+- <a href="https://drive.google.com/file/d/14b-mlKem_U2CzSsdJhstMIJrgbjyhCre/view?usp=drive_link" rel="nofollow">Power BI DIscovery</a>
 	
-		
-Jogo da Cobrinha 🐍
+<br><br/>	
+
+Resumo da minha vida:
 -
-	
-![Snake animation](https://github.com/Nathalia1234/Nathalia1234/blob/output/github-contribution-grid-snake.svg)
+<br><br/>	
+<div style="text-align: center;">
+    <img src="https://user-images.githubusercontent.com/74038190/215283228-89a6af16-23b1-4144-ac9b-064dc973b3db.gif">
+</div>
 
+<br><br/>	
 	
-<p align="center"> Quantidade de visitas no meu perfil 👀 </p>
+<p align="center"> Quantidade de visitas ao meu perfil 👀 </p>
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Nathalia1234/count.svg" /></p>
 <p align="center"> Obrigado(a) e volte sempre 👋 </p>
 	
-

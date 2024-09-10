@@ -28,7 +28,7 @@
 
 Olá, Me chamo Nathalia 👋👩🏽‍💻
 -
->Estou atualmente no 6º semestre de Engenharia da Computação, com uma forte paixão por tecnologia e análise de dados. Meu objetivo é sempre expandir meus conhecimentos e habilidades. No meu tempo livre, gosto de jogar games, assistir séries, documentários, gameplays, além de filmes. Sou entusiasta de aprendizado contínuo e frequentemente faço cursos para aprimorar minhas competências profissionais na área de análise de dados.
+>Estou atualmente no 7º semestre de Engenharia da Computação, com uma forte paixão por tecnologia e análise de dados. Meu objetivo é sempre expandir meus conhecimentos e habilidades. No meu tempo livre, gosto de jogar games, assistir séries, documentários, gameplays, além de filmes. Sou entusiasta de aprendizado contínuo e frequentemente faço cursos para aprimorar minhas competências profissionais na área de análise de dados.
 
 > Tenho um portfólio de cases/dashboards que considero interessante e gostaria de convidá-lo(a) a dar uma olhada. Você pode acessá-lo através do seguinte link: [Portfólio de Dashboards.](https://dashboards.digital/editor/Nathalia%20Ohana%20Barigchum%20Leite)
 

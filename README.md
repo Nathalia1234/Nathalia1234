@@ -40,6 +40,7 @@ Formações 🎓
 -
  > - Graduanda em Engenharia da Computação pelo SENAI (Centro Universitário SENAI CIMATEC) - 12/2025
  > - Técnica em Informática pela Escola Técnica SENAI BAHIA - 07/2020
+
  
  <br><br/>
 
@@ -136,7 +137,20 @@ Formações 🎓
 
 - <a href="https://drive.google.com/file/d/1FM_ZFsqkrOCAnEzfNPPpXWIW9Yr85BwQ/view?usp=drive_link" rel="nofollow">Data Expert: O Fim dos Relatórios Amadores <a/>
 
+- <a href="https://drive.google.com/file/d/1-m0Ss5ztBnZ_YhjhlXUkpvl48oDPM-Xt/view?usp=sharing" rel="nofollow">Imersão Gratuita: Análise de Dados na Prática <a/>
+
+- <a href="https://drive.google.com/file/d/1-neFN84QCkNKSqnJ-8axUbWn6BAMuM1W/view?usp=sharing" rel="nofollow">Imersão Power BI <a/>
+
+- <a href="https://drive.google.com/file/d/12qi0Vinp6abtUrVi2OtKylCw5wt2f5Yj/view?usp=sharing" rel="nofollow">Power BI Week. <a/>
+
+- <a href="https://drive.google.com/file/d/1PM7dVAxZPxxD9JuZO2fNSfQcUJ57uStJ/view?usp=sharing" rel="nofollow">Acelerador de Carreira com Power BI <a/>
+
 - <a href="https://drive.google.com/file/d/14b-mlKem_U2CzSsdJhstMIJrgbjyhCre/view?usp=drive_link" rel="nofollow">Power BI DIscovery</a>
+
+- <a href="https://drive.google.com/file/d/1D1e02asp5ogBl8KfZxPgD_3HYYN8h_1o/view?usp=sharing" rel="nofollow">Power BI Series </a>
+
+- <a href="https://drive.google.com/file/d/1W3DbN0Owlu9PVpXnttrps3n1dQ36Wvdp/view?usp=sharing" rel="nofollow">Minicurso de Power BI</a>
+
 	
 <br><br/>	
 

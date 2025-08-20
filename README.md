@@ -161,7 +161,5 @@ Resumo da minha vida 😂🙏
 
 <br>
 	
-<p align="center"> Quantidade de visitas ao meu perfil 👀 </p>
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Nathalia1234/count.svg" /></p>
 <p align="center"> Obrigado(a) e volte sempre 👋 </p>
 	

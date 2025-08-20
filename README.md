@@ -108,6 +108,7 @@ Formações 🎓
 <a href="https://www.microsoft.com/pt-br/microsoft-365/excel" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/></a>
 <a href="https://www.microsoft.com/pt-br/microsoft-365/powerpoint" target="_blank"><img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" alt="Power Point"/></a>
 <a href="https://www.microsoft.com/pt-br/power-platform/products/power-bi" target="_blank"><img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black" alt="Power BI"/></a>
+<a href="https://www.microsoft.com/en-us/microsoft-365/sharepoint/collaboration?ocid=ORSEARCH_Bing&msockid=0f9f7fec878e6989183a69a1863f687b" target="_blank"><img src="https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white" alt="Sharepoint"/></a>
 
 <br><br/>
 

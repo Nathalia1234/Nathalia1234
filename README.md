@@ -1,8 +1,3 @@
-<div align="center">
-    <a target="_blank" rel="noopener noreferrer" href="https://github.com/Nathalia1234/convoychat">
-        <img width="495px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathalia1234&repo=convoychat&layout=compact&theme=jolly" style="width:400px; margin:auto;" alt="Top languages used by Nathalia1234"/>
-    </a>
-</div>
 
 <br>
 

@@ -1,7 +1,12 @@
+<div align="center">
+
+# 👩🏽‍💻 Nathalia Ohana
+
+### `Data Analytics` • `Business Intelligence` • `Automation`
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Engenharia+da+Computa%C3%A7%C3%A3o;Dados+%7C+BI+%7C+Automa%C3%A7%C3%A3o;Transformando+dados+em+informa%C3%A7%C3%A3o+%C3%BAtil" alt="Typing SVG" />
 
 <br>
-
-<div align="center">
     <a href="mailto:nathe557@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
     </a>
@@ -13,149 +18,139 @@
     </a>
 </div>
 
-<br>
+---
 
-<div align="center">
+## `> whoami`
 
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+```yaml
+nome: Nathalia Ohana
+formacao: Engenharia da Computação
+foco:
+  - Data Analytics
+  - Business Intelligence
+  - Automação de Processos
+  - Segurança da Informação
+```
 
-</div>	
+Sou formada em **Engenharia da Computação**, com foco profissional em **Análise de Dados e Business Intelligence**.
 
-Olá, Me chamo Nathalia 👋👩🏽‍💻
--
->Recentemente finalizei minha graduação em Engenharia da Computação, tenho uma forte paixão por tecnologia e análise de dados. Meu objetivo é sempre expandir meus conhecimentos e habilidades. No meu tempo livre, gosto de jogar games, assistir séries, documentários, gameplays, além de filmes. Sou entusiasta de aprendizado contínuo e frequentemente faço cursos para aprimorar minhas competências profissionais na área de análise de dados.
+Tenho experiência com análise e tratamento de dados, desenvolvimento de dashboards, construção de indicadores e automação de processos, utilizando principalmente **Power BI, Excel, Python, SQL e Microsoft Power Platform**.
 
+Atualmente amplio minha formação através da **Pós-graduação em Segurança da Informação**, conciliando conhecimentos de dados, automação e tecnologia com fundamentos de governança e segurança.
 
-<p align="center"><img src="https://private-user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTc5ODUwOTUsIm5iZiI6MTcxNzk4NDc5NSwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk5MjctZjVkMmQ4NjYtZDI1Yy00ODczLThkODItNDI1ZDJjNjJmYzJlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MTAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjEwVDAxNTk1NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWEzNThiOTMzMDM4ODIxZWVkMjllOGY5NWRkMzFmN2FmYjBjYTY4NjkzMGU4YWYxMjE2ZTM2ZjU0ZjBkZDJlMjAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.zMECdWAWHzzuUg7Gcxx1gGnndGfCFQJAwZDeNBBedi0" alt="Centralized Image"></p>
+---
 
-<br>
+## Formações 🎓
 
-Formações 🎓
--
- > - Bacharelado em Engenharia da Computação pelo SENAI (Centro Universitário SENAI CIMATEC) - 08/2026
- > - Técnica em Informática pela Escola Técnica SENAI BAHIA - 07/2020
+> * **Pós-graduação em Segurança da Informação** pela UNIFACS — `Cursando`
+> * **Bacharelado em Engenharia da Computação** pelo SENAI (Centro Universitário SENAI CIMATEC) — `08/2026`
+> * **Técnica em Informática** pela Escola Técnica SENAI BAHIA — `07/2020`
 
- 
- <br><br/>
+---
 
 ## Linguagem de Marcação e Estilização 💻
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/> <a href="https://www.markdownguide.org/getting-started/" target="_blank"><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"/></a>
-
-<br><br/>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge\&logo=markdown\&logoColor=white)
 
 ## Linguagem de Programação 🛠
 
-<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
-
-<br><br/>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge\&logo=typescript\&logoColor=white)
 
 ## Bibliotecas e Frameworks 🛠
 
-<img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django"/> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/>
-
-<br><br/>
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge\&logo=numpy\&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
 
 ## Banco de Dados 🎲
 
-<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="sql server"/>
-
-<br><br/>
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge\&logo=microsoft%20sql%20server\&logoColor=white)
 
 ## Design 🖍
 
-<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="canva"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma"/>
-
-<br><br/>
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge\&logo=Canva\&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge\&logo=figma\&logoColor=white)
 
 ## Navegadores da Web que mais utilizo 💻
 
-<a href="https://www.google.com/intl/pt-BR/chrome/" target="_blank"><img src="https://img.shields.io/badge/Google_chrome-DAA520?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="Google Chrome"/></a>
-<a href="https://www.mozilla.org/pt-BR/firefox/new/" target="_blank"><img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Firefox"/></a>
-<a href="https://www.opera.com/pt-br?gad_source=1&utm_campaign=%2300%20-%20WW%20-%20Search%20-%20EN%20-%20Branded&utm_content=37670026502&gclid=EAIaIQobChMI4arevPTPhgMVDwatBh3JGgb5EAAYASAAEgL68PD_BwE" target="_blank"><img src="https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white" alt="Opera"/></a>
-<a href="https://www.microsoft.com/pt-br/edge?form=MA13FJ" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white" alt="Microsoft-edge"/></a>
-
-<br><br/>
+![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge\&logo=GoogleChrome\&logoColor=white)
+![Microsoft Edge](https://img.shields.io/badge/Microsoft%20Edge-0078D7?style=for-the-badge\&logo=Microsoft-edge\&logoColor=white)
+![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge\&logo=Firefox-Browser\&logoColor=white)
+![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge\&logo=Opera\&logoColor=white)
 
 ## Sistema Operacional 💻
 
-<a href="https://www.microsoft.com/pt-br/software-download/windows10" target="_blank"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/></a>
-
-<br><br/>
+![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge\&logo=Windows%2011\&logoColor=white)
 
 ## Ambientes de Desenvolvimento de Código-Fonte 🛠
 
-<a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code"/></a>
-<a href="https://www.jetbrains.com/pt-br/pycharm/download/#section=windows" target="_blank"><img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" alt="PyCharm"/></a>
-<a href="https://colab.google/" target="_blank"><img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" alt="Colab"/></a>
-
-<br><br/>
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge\&logo=googlecolab\&color=525252)
 
 ## Plataforma de Prototipagem 🛠
 
-<a href="https://www.arduino.cc/en/software" target="_blank"><img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduíno"/></a>
-
-<br><br/>
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge\&logo=Arduino\&logoColor=white)
 
 ## Office 365 💻
 
-<a href="https://www.microsoft.com/pt-br/microsoft-365/word" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="Word"/></a>
-<a href="https://www.microsoft.com/pt-br/microsoft-365/excel" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/></a>
-<a href="https://www.microsoft.com/pt-br/microsoft-365/powerpoint" target="_blank"><img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" alt="Power Point"/></a>
-<a href="https://www.microsoft.com/pt-br/power-platform/products/power-bi" target="_blank"><img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black" alt="Power BI"/></a>
-<a href="https://www.microsoft.com/en-us/microsoft-365/sharepoint/collaboration?ocid=ORSEARCH_Bing&msockid=0f9f7fec878e6989183a69a1863f687b" target="_blank"><img src="https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white" alt="Sharepoint"/></a>
-
-<br><br/>
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge\&logo=microsoft-excel\&logoColor=white)
+![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge\&logo=microsoft-powerpoint\&logoColor=white)
+![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge\&logo=microsoft-word\&logoColor=white)
+![Microsoft SharePoint](https://img.shields.io/badge/Microsoft%20SharePoint-0078D4?style=for-the-badge\&logo=microsoft-sharepoint\&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge\&logo=powerautomate\&logoColor=white)
+![Power Apps](https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge\&logo=powerapps\&logoColor=white)
 
 ## Especificações do espaço de trabalho 💻
 
-<a href="https://www.nvidia.com/pt-br/drivers/nvidia-geforce-mx110/" target="_blank"><img src="https://img.shields.io/badge/NVIDIA-GeForce MX110-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA"/></a>
-<a href="https://www.intel.com.br/content/www/br/pt/products/sku/122589/intel-core-i78550u-processor-8m-cache-up-to-4-00-ghz/specifications.html" target="_blank"><img src="https://img.shields.io/badge/Intel-Core_i7_8550U-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="Intel"/></a>
-<a href=""><img src="https://img.shields.io/badge/samsung-laptop-0071C5?style=for-the-badge&logo=samsung&logoColor=white" alt="Samsung"/></a>
-<a href=""><img src="https://img.shields.io/badge/monitor-20 pol, hd, 75Hz-0071C5?style=for-the-badge&logoColor=white" alt="Monitor"/></a>
-
-<br><br/>
+![Intel](https://img.shields.io/badge/Intel-Core_i5_8th-0071C5?style=for-the-badge\&logo=intel\&logoColor=white)
+![NVIDIA](https://img.shields.io/badge/NVIDIA-GeForce_MX110-76B900?style=for-the-badge\&logo=nvidia\&logoColor=white)
+![Samsung](https://img.shields.io/badge/Samsung-Notebook-1428A0?style=for-the-badge\&logo=samsung\&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge\&logo=windows\&logoColor=white)
 
 ## Ferramentas para produtividade e gerenciamento de projetos 💻
 
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/><img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello"/>
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge\&logo=jira\&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge\&logo=notion\&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge\&logo=trello\&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge\&logo=docker\&logoColor=white)
 
-<br><br/>
+---
 
-	
- 🚧 Certificações em Andamento ✅ 🚧
- -
+## 🚧 Certificações em Andamento ✅ 🚧
 
- - <a href="https://drive.google.com/file/d/1iVti7HJA9jTULX6xXUpo1zeg2r2vzXTu/view?usp=sharing" rel="nofollow">Programando em Python: da lógica de programação ao trabalho com dados abertos na web </a>
-	
- - <a href="https://drive.google.com/file/d/1C49i2JV22L_npnnSjV5la_nSu_10zOXw/view?usp=sharing" rel="nofollow">Introdução à Cibersegurança </a>
+* [Programando em Python: da lógica de programação ao trabalho com dados abertos na web](https://drive.google.com/)
+* [Introdução à Cibersegurança](https://drive.google.com/)
+* [Data Expert: O Fim dos Relatórios Amadores](https://drive.google.com/)
+* [Imersão Gratuita: Análise de Dados na Prática](https://drive.google.com/)
+* [Imersão Power BI](https://drive.google.com/)
+* [Power BI Week](https://drive.google.com/)
+* [Acelerador de Carreira com Power BI](https://drive.google.com/)
+* [Power BI Discovery](https://drive.google.com/)
+* [Power BI Series](https://drive.google.com/)
+* [Minicurso de Power BI](https://drive.google.com/)
 
-- <a href="https://drive.google.com/file/d/1FM_ZFsqkrOCAnEzfNPPpXWIW9Yr85BwQ/view?usp=drive_link" rel="nofollow">Data Expert: O Fim dos Relatórios Amadores <a/>
+---
 
-- <a href="https://drive.google.com/file/d/1-m0Ss5ztBnZ_YhjhlXUkpvl48oDPM-Xt/view?usp=sharing" rel="nofollow">Imersão Gratuita: Análise de Dados na Prática <a/>
+## Resumo da minha vida 😂🙏
 
-- <a href="https://drive.google.com/file/d/1-neFN84QCkNKSqnJ-8axUbWn6BAMuM1W/view?usp=sharing" rel="nofollow">Imersão Power BI <a/>
+<div align="center">
 
-- <a href="https://drive.google.com/file/d/12qi0Vinp6abtUrVi2OtKylCw5wt2f5Yj/view?usp=sharing" rel="nofollow">Power BI Week. <a/>
-
-- <a href="https://drive.google.com/file/d/1PM7dVAxZPxxD9JuZO2fNSfQcUJ57uStJ/view?usp=sharing" rel="nofollow">Acelerador de Carreira com Power BI <a/>
-
-- <a href="https://drive.google.com/file/d/14b-mlKem_U2CzSsdJhstMIJrgbjyhCre/view?usp=drive_link" rel="nofollow">Power BI DIscovery</a>
-
-- <a href="https://drive.google.com/file/d/1D1e02asp5ogBl8KfZxPgD_3HYYN8h_1o/view?usp=sharing" rel="nofollow">Power BI Series </a>
-
-- <a href="https://drive.google.com/file/d/1W3DbN0Owlu9PVpXnttrps3n1dQ36Wvdp/view?usp=sharing" rel="nofollow">Minicurso de Power BI</a>
-
-	
-<br><br/>	
-
-Resumo da minha vida 😂🙏
--
 <br>
 
 <p align="center"> <img src="https://user-images.githubusercontent.com/74038190/215283228-89a6af16-23b1-4144-ac9b-064dc973b3db.gif" alt="Gif Centralizado" style="display: block; margin: 0 auto;"></p>
 
 <br>
-	
-<p align="center"> Obrigado(a) e volte sempre 👋 </p>
-	
+
+**Obrigado(a) e volte sempre 👋**
+
+</div>

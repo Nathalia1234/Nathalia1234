@@ -142,16 +142,16 @@ Meu foco está na construção de soluções que conectem **dados, automação e
 
 ## `certifications`
 
-* [Programando em Python: da lógica de programação ao trabalho com dados abertos na web](https://drive.google.com/)
-* [Introdução à Cibersegurança](https://drive.google.com/)
-* [Data Expert: O Fim dos Relatórios Amadores](https://drive.google.com/)
-* [Imersão Gratuita: Análise de Dados na Prática](https://drive.google.com/)
-* [Imersão Power BI](https://drive.google.com/)
-* [Power BI Week](https://drive.google.com/)
-* [Acelerador de Carreira com Power BI](https://drive.google.com/)
-* [Power BI Discovery](https://drive.google.com/)
-* [Power BI Series](https://drive.google.com/)
-* [Minicurso de Power BI](https://drive.google.com/)
+* [Programando em Python: da lógica de programação ao trabalho com dados abertos na web]([https://drive.google.com/](https://drive.google.com/file/d/1tvedL8vo1B9G_Vu3dZwhdfchwyBnPyia/view?usp=sharing))
+* [Introdução à Cibersegurança]([https://drive.google.com/](https://drive.google.com/file/d/1C49i2JV22L_npnnSjV5la_nSu_10zOXw/view?usp=sharing))
+* [Data Expert: O Fim dos Relatórios Amadores]([https://drive.google.com/](https://drive.google.com/file/d/1WYtttliQSJQslnzVL62ZE5coOJETTZlN/view?usp=sharing))
+* [Imersão Gratuita: Análise de Dados na Prática]([https://drive.google.com/](https://drive.google.com/file/d/1-m0Ss5ztBnZ_YhjhlXUkpvl48oDPM-Xt/view?usp=sharing))
+* [Imersão Power BI]([https://drive.google.com/](https://drive.google.com/file/d/1-neFN84QCkNKSqnJ-8axUbWn6BAMuM1W/view?usp=sharing))
+* [Power BI Week](https://drive.google.com/file/d/12qi0Vinp6abtUrVi2OtKylCw5wt2f5Yj/view?usp=sharing)
+* [Acelerador de Carreira com Power BI]([https://drive.google.com/](https://drive.google.com/file/d/1PM7dVAxZPxxD9JuZO2fNSfQcUJ57uStJ/view?usp=sharing))
+* [Power BI Discovery]([https://drive.google.com/](https://drive.google.com/file/d/14b-mlKem_U2CzSsdJhstMIJrgbjyhCre/view?usp=sharing))
+* [Power BI Series]([https://drive.google.com/](https://drive.google.com/file/d/1W3DbN0Owlu9PVpXnttrps3n1dQ36Wvdp/view?usp=sharing))
+* [Minicurso de Power BI]([https://drive.google.com/](https://drive.google.com/file/d/1D1e02asp5ogBl8KfZxPgD_3HYYN8h_1o/view?usp=sharing))
 
 ---
 

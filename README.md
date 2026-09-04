@@ -13,9 +13,6 @@
     <a href="https://www.linkedin.com/in/nath%C3%A1lia-ohana-867524134/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
     </a>
-    <a href="https://discord.com/channels/@me" target="_blank">
-        <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
-    </a>
 </div>
 
 ---
@@ -40,80 +37,70 @@ Atualmente curso **Pós-graduação em Segurança da Informação**, ampliando m
 
 ## `tech.stack()`
 
-### Linguagem de Marcação e Estilização 💻
+### Análise de Dados & Business Intelligence 📊
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge\&logo=markdown\&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-### Linguagem de Programação 🛠
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge\&logo=typescript\&logoColor=white)
+### Banco de Dados 🗄️
 
-### Bibliotecas e Frameworks 🛠
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge\&logo=numpy\&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+### Linguagens de Programação 💻
 
-### Banco de Dados 🎲
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge\&logo=microsoft%20sql%20server\&logoColor=white)
+### Bibliotecas & Frameworks 🧩
 
-### Design 🖍
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge\&logo=Canva\&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge\&logo=figma\&logoColor=white)
+### Automação & Microsoft Power Platform ⚙️
 
-### Navegadores da Web que mais utilizo 💻
+![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
+![Power Apps](https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
+![Microsoft SharePoint](https://img.shields.io/badge/Microsoft%20SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white)
 
-![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge\&logo=GoogleChrome\&logoColor=white)
-![Microsoft Edge](https://img.shields.io/badge/Microsoft%20Edge-0078D7?style=for-the-badge\&logo=Microsoft-edge\&logoColor=white)
-![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge\&logo=Firefox-Browser\&logoColor=white)
-![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge\&logo=Opera\&logoColor=white)
+### Inteligência Artificial 🤖
 
-### Sistema Operacional 💻
+![ChatGPT](https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 
-![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge\&logo=Windows%2011\&logoColor=white)
+### Linguagens de Marcação & Estilização 🎨
 
-### Ambientes de Desenvolvimento de Código-Fonte 🛠
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge\&logo=googlecolab\&color=525252)
+### Design & Prototipagem 🖌️
 
-### Plataforma de Prototipagem 🛠
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge\&logo=Arduino\&logoColor=white)
+### Ambientes de Desenvolvimento 🛠️
 
-### Office 365 💻
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge\&logo=microsoft-excel\&logoColor=white)
-![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge\&logo=microsoft-powerpoint\&logoColor=white)
-![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge\&logo=microsoft-word\&logoColor=white)
-![Microsoft SharePoint](https://img.shields.io/badge/Microsoft%20SharePoint-0078D4?style=for-the-badge\&logo=microsoft-sharepoint\&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
-![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge\&logo=powerautomate\&logoColor=white)
-![Power Apps](https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge\&logo=powerapps\&logoColor=white)
+### Produtividade & Gerenciamento 📋
 
-### Especificações do espaço de trabalho 💻
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=trello&logoColor=white)
 
-![Intel](https://img.shields.io/badge/Intel-Core_i5_8th-0071C5?style=for-the-badge\&logo=intel\&logoColor=white)
-![NVIDIA](https://img.shields.io/badge/NVIDIA-GeForce_MX110-76B900?style=for-the-badge\&logo=nvidia\&logoColor=white)
-![Samsung](https://img.shields.io/badge/Samsung-Notebook-1428A0?style=for-the-badge\&logo=samsung\&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge\&logo=windows\&logoColor=white)
+### Tecnologias Complementares 🔧
 
-### Ferramentas para produtividade e gerenciamento de projetos 💻
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge\&logo=jira\&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge\&logo=notion\&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge\&logo=trello\&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 ---
 ## `core.skills`
@@ -121,7 +108,7 @@ Atualmente curso **Pós-graduação em Segurança da Informação**, ampliando m
 - Análise, tratamento e exploração de dados
 - Desenvolvimento de dashboards e relatórios
 - Criação e acompanhamento de KPIs e indicadores
-- Consultas e manipulação de dados com SQL
+- Consultas, manipulação e análise de dados com SQL
 - Automação de processos e fluxos de trabalho
 - Integração entre Excel, Power BI, SharePoint e Power Platform
 - Organização e documentação de processos
@@ -147,13 +134,13 @@ Meu foco está na construção de soluções que conectem **dados, automação e
 ---
 ## `education`
 
-> * **Pós-graduação em Segurança da Informação** pela UNIFACS — `Cursando`
+> * **Pós-graduação em Segurança da Informação** pela UNIFACS — `Em andamento`
 > * **Bacharelado em Engenharia da Computação** pelo SENAI (Centro Universitário SENAI CIMATEC) — `08/2026`
 > * **Técnica em Informática** pela Escola Técnica SENAI BAHIA — `07/2020`
 
 ---
 
-## 🚧 Certificações em Andamento ✅ 🚧
+## `certifications`
 
 * [Programando em Python: da lógica de programação ao trabalho com dados abertos na web](https://drive.google.com/)
 * [Introdução à Cibersegurança](https://drive.google.com/)
